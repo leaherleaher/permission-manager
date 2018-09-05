@@ -1,6 +1,6 @@
 **项目说明** 
 
-renren-security的SpringBoot版，不包含【部门管理】，方便无需部门管理的开发者使用，该版本要求JDK1.8
+renren-security的SpringBoot版，不包含【部门管理】，方便无需部门管理的开发者使用，该版本要求JDK1.8或以上
 
 <br> 
 
@@ -44,7 +44,7 @@ renren-security
 - 创建数据库renren_security，数据库编码为UTF-8
 - 执行doc/db.sql文件，初始化数据【按需导入表结构及数据】
 - 修改application-dev.yml，更新MySQL账号和密码
-- 修改redis的用户名和密码以及端口
+- 修改application.yml,更新redis的用户名和密码以及端口
 - Eclipse、IDEA运行RenrenApplication.java，则可启动项目
 - 项目访问路径：http://localhost:8080/renren-security
 - 账号密码：admin/admin
