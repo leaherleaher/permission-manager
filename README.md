@@ -44,6 +44,7 @@ renren-security
 - 创建数据库renren_security，数据库编码为UTF-8
 - 执行doc/db.sql文件，初始化数据【按需导入表结构及数据】
 - 修改application-dev.yml，更新MySQL账号和密码
+- 修改redis的用户名和密码以及端口
 - Eclipse、IDEA运行RenrenApplication.java，则可启动项目
 - 项目访问路径：http://localhost:8080/renren-security
 - 账号密码：admin/admin
@@ -61,18 +62,3 @@ renren-security
  **项目演示**
 - 演示地址：http://demo.open.renren.io/renren-security
 - 账号密码：admin/admin
-
-<br>
-
-**如何交流、反馈、参与贡献？** 
-- 项目主页：http://www.renren.io/open/
-- oschina仓库：https://gitee.com/babaio/renren-security
-- github仓库：https://github.com/sunlightcs/renren-security
-- [人人开源](http://www.renren.io)：http://www.renren.io   
-- 官方QQ群：324780204、145799952
-- 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
-- 技术讨论、二次开发等咨询、问题和建议，请移步到QQ群324780204、145799952，我会在第一时间进行解答和回复！
-
-<br>
-
-![捐赠](http://cdn.renren.io/donate.jpg "捐赠") 
