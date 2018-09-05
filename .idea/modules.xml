@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/permission-manager.iml" filepath="$PROJECT_DIR$/permission-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-admin/renren-admin.iml" filepath="$PROJECT_DIR$/renren-admin/renren-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-common/renren-common.iml" filepath="$PROJECT_DIR$/renren-common/renren-common.iml" />
+    </modules>
+  </component>
+</project>
