@@ -2,11 +2,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.renren</groupId>
-    <artifactId>permission-manager</artifactId>
+    <artifactId>renren-security</artifactId>
     <version>3.2.0</version>
     <packaging>pom</packaging>
 
-    <name>permission-manager</name>
+    <name>renren-security</name>
     <url>http://www.renren.io</url>
 
 	<parent>
